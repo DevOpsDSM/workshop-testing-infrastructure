@@ -2,6 +2,12 @@
 
 This repo is used in infrastructure testing workshops.
 
+## Types of Tests
+
+ - [Configuration management testing](config-management/README.md)
+ - TODO: Service status testing
+ - TODO: Integration testing
+
 ## Pre Workshop setup
 
 These are notes for how the workshop virtual machines were setup.
@@ -29,3 +35,4 @@ When this completes, you will get a list of IP addresses you may ssh into:
 ```bash
 $ ssh -i id_rsa root@<IPADDRESS>
 ```
+
